@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">IIT Event Organizer</string>
+    <string name="title_activity_maps">IIT Event Organizer</string>
+    <string name="event_name">Event Name : </string>
+    <string name="event_organizer">Organizer Email : </string>
+    <string name="event_start_time">Start Time : </string>
+    <string name="event_end_time">End Time : </string>
+    <string name="event_location">Location : </string>
+    <string name="event_description">Description : </string>
+    <string name="event_host">Host : </string>
+    <string name="event_cost">Cost : </string>
+    <string name="event_creator">Creator : </string>
+    <string name="back">Go Back</string>
+
+    <string name="title_text">Google Sign-In\nQuickstart</string>
+
+    <!-- Sign-in status messages -->
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+    <string name="signed_in_err">"Error: please check logs."</string>
+    <string name="error_null_person">
+        Error: Plus.PeopleApi.getCurrentPerson returned null. Ensure that the Google+ API is
+        enabled for your project, you have a properly configured google-services.json file
+        and that your device has an internet connection.
+    </string>
+
+    <!-- Google Play Services error for Toast -->
+    <string name="play_services_error_fmt">Google Play Services Error: %i</string>
+
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+
+    <!-- Rationale for asking for Contacts -->
+    <string name="contacts_permission_rationale">Contacts access is needed in order to retrieve your email address.</string>
+
+
+</resources>

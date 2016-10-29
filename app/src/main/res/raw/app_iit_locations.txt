@@ -1,0 +1,38 @@
+Alpha Sigma Alpha,41.833642,-87.623757
+Alpha Sigma Phi,41.83304,-87.624613
+Alumni Memorial,41.836207,-87.627329
+Carman Hall,41.836649,-87.624786
+Chapel,41.836259,-87.624361
+Delta Tau Delta,41.833329,-87.624659
+Ed Glancy Field,41.838778,-87.624528
+Engineering 1,41.836814,-87.627272
+Farr Field,41.834366,-87.62455
+Farr Hall,41.834326,-87.623767
+Galvin Library,41.83383,-87.628208
+Gunsaulus,41.837083,-87.623933
+Hermann Hall,41.835685,-87.628373
+IIT Tower,41.831284,-87.627224
+Kappa Phi Delta,41.833926,-87.623767
+Keating Hall,41.838954,-87.625601
+Life Sciences,41.837883,-87.627382
+Main Building,41.83423,-87.629228
+McCormick Student Village,41.835501,-87.624528
+MTCC,41.835385,-87.626081
+Morton Park,41.836988,-87.628348
+Perlstein Hall,41.835245,-87.627157
+Phi Kappa Sigma,41.833039,-87.624164
+Pi Kappa Phi,41.833909,-87.624639
+Quad,41.833602,-87.624196
+S. R. Crown Hall,41.833281,-87.627298
+Siegal Field,41.833774,-87.627082
+Siegel Hall,41.834254,-87.627575
+State Street Village,41.834158,-87.626202
+Stuart Building,41.83873,-87.627339
+Stuart Field,41.83861,-87.628546
+Technology Business Center,41.831224,-87.628208
+Technology Park - Central,41.832128,-87.627243
+Technology Park - North,41.832535,-87.627254
+Technology Park - South,41.831744,-87.627221
+Triangle,41.833055,-87.623731
+Vandercook,41.836765,-87.629197
+Wishnick Hall,41.835067,-87.627728
